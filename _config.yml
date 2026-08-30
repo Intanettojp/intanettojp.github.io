@@ -1,0 +1,24 @@
+title: "The Stories"
+url: "https://news.thestories.cc"
+description: "Nem sempre com finais felizes, mas sempre verdadeiras. Histórias de quem realmente sentiu algo sincero, diretamente entregues na sua caixa de entrada. A cada história uma emoção."
+permalink: "/p/:title.html"
+img: "https://picsum.photos/600/363"
+baseurl: ""
+url: "https://news.thestories.cc"
+# theme: minima  # Desabilitado - usamos templates customizados de email
+
+# Informações do Autor
+author_name: "The Stories"
+author_id: "thestories" # O ID que você usa no esquema
+author_image: "https://i.imgur.com/owFGbM2.png"
+author_bio: "Jornalista de Salvador, BA. Atualmente, escreve sobre cultura e entretenimento para o TheStories"
+
+markdown: kramdown
+
+# Define regras automáticas para arquivos específicos
+defaults:
+  - scope:
+      path: ""       # Aplica-se a todo o projeto
+      type: "posts"  # Alvo: apenas os arquivos dentro da pasta _posts
+    values:
+      layout: "post" # Injeta automaticamente o layout padrão do seu template
