@@ -5,14 +5,13 @@ date: "2026-08-26T01:24:32-03:00"
 tags: [newslatter]
 img: "/img/18-anos-ate-o-altar.png"
 ---
-
-![Até ficar velhinho](/img/18-anos-ate-o-altar.png)
-
-# the stories
-**Edição de domingo, 30 de agosto de 2026**
-
 ---
-
+title: "18 anos de distância até o altar"
+description: "Cartas que levavam semanas para chegar, um amor que esperou 18 anos e um poema pra reler com calma nesta edição."
+date: "2026-08-26T01:24:32-03:00"
+tags: [newslatter]
+img: "/img/18-anos-ate-o-altar.png"
+---
 Em *[Orgulho e Preconceito](https://www.imdb.com/title/tt0414387/)* (2005), de Joe Wright, Elizabeth Bennet e o Sr. Darcy passam metade do filme trocando farpas — e a outra metade trocando cartas.
 
 É justamente uma carta, lida e relida à luz de vela, que muda o rumo de tudo entre os dois.
@@ -20,6 +19,8 @@ Em *[Orgulho e Preconceito](https://www.imdb.com/title/tt0414387/)* (2005), de J
 Talvez porque uma carta bem escrita diga o que a voz, na hora certa, nunca consegue.
 
 *"🎵 Para ler esta edição com a trilha certa."* —
+
+<iframe src="https://www.tokyvideo.com/br/embed/820520" frameborder="0" width="450" height="253" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe>
 
 ---
 ##### **BIG STORY**
@@ -53,18 +54,23 @@ Talvez seja por isso que, mesmo com toda a tecnologia disponível, tanta gente a
 --------------------
 ##### **GIRO CULT**
 
-🎬 **Setembro chega badalado nos cinemas.** Entre os lançamentos do mês estão o reboot de *Resident Evil*, o show-filme *Katy Perry: The Lifetimes Tour — Live from Paris* (02/09) e o relançamento de *Vingadores: Ultimato Encore*, com cenas inéditas.
+🎬  **Setembro chega badalado nos cinemas.**  Entre os lançamentos do mês estão o [reboot de  _Resident Evil_](https://www.instagram.com/reel/DcoQUD1uehX/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==), o show-filme  _[Katy Perry: The Lifetimes Tour — Live from Paris](https://www.facebook.com/share/v/19GE8f1Uow/)_  (02/09) e o relançamento de  _[Vingadores: Ultimato Encore](https://www.thestories.cc/watch?v=HiAzj9HZQnE)_, com cenas inéditas.
 
-🇧🇷 **Produção nacional em destaque.** *Antártida*, com Marina Ruy Barbosa, Lázaro Ramos e Andrea Beltrão, aposta em suspense numa base de pesquisa isolada — tensão à flor da pele, sem sinal de internet por perto.
+🇧🇷  **Produção nacional em destaque.**  _[Antártida](https://www.thestories.cc/watch?v=JHk8QZGgoVY)_, com Marina Ruy Barbosa, Lázaro Ramos e Andrea Beltrão, aposta em suspense numa base de pesquisa isolada — tensão à flor da pele, sem sinal de internet por perto.
 
-📺 **Streaming também tem novidade brasileira.** A Netflix estreia em setembro a série nacional *Habeas Corpus*, com Marjorie Estiano, e a 2ª temporada de *Magnatas do Crime*.
+📺  **Streaming também tem novidade brasileira.**  A Netflix estreia em setembro a série nacional  _[Habeas Corpus](https://about.netflix.com/pt_br/news/netflix-unveils-the-first-images-and-the-poster-for-habeas-corpus-a-series-featuring-marjorie-estiano-and-any-gabrielly-which-premieres-september-23)_, com Marjorie Estiano, e a 2ª temporada de  _Magnatas do Crime_.
 
-😂 **Pausa para rir.** *Furnas Fundas* usa uma eleição municipal que divide amigos e vizinhos como pano de fundo para uma comédia sobre até onde vai a rixa entre duas famílias.
+😂  **Pausa para rir.**  _[Furnas Fundas](https://www.instagram.com/reel/DcLmbtAFPwG/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==)_  usa uma eleição municipal que divide amigos e vizinhos como pano de fundo para uma comédia sobre até onde vai a rixa entre duas famílias.
+
 
 --------------------
 ##### **BASEADO EM UMA HISTÓRIA REAL**
 
 # Dezoito anos de namoro à distância
+
+<a href="https://news.thestories.cc/p/18-anos-ate-o-altar.html">
+<img src="https://news.thestories.cc/img/18-anos-ate-o-altar.png" alt="Dezoito anos de namoro à distância" width="100%">
+</a>
 
 **Rosinha** e **Walter** se conheceram em 5 de novembro de 2003, por um site de relacionamentos chamado Pá Perfeito.
 
@@ -127,6 +133,10 @@ Rosinha deixa um recado para quem, como ela um dia, duvida que ainda dá tempo d
 
 Setembro chega repleto de estreias. Além dos já citados, entram em cartaz:
 
-* ***One Piece — O Filme*** — parte do projeto que leva os três primeiros longas de One Piece às telonas brasileiras;
-* ***George Washington*** — cinebiografia de ação e drama;
-* ***Viva Marília*** — documentário musical sobre a trajetória de Marília Pêra, revisitando décadas de história do Brasil através de sua obra.
+-   **_[One Piece — O Filme](https://www.google.com/search?q=one-piece-o-filme-trailer)_**  — parte do projeto que leva os três primeiros longas de One Piece às telonas brasileiras;
+-   **_[George Washington](https://www.google.com/search?q=George%20Washington%20-%20cinebiografia%20de%20a%C3%A7%C3%A3o%20e%20drama)_**  — cinebiografia de ação e drama;
+-   **_[Viva Marília](https://www.google.com/search?q=Viva%20Mar%C3%ADlia%20-%20document%C3%A1rio%20musical%20sobre%20a%20trajet%C3%B3ria%20de%20Mar%C3%ADlia%20P%C3%AAra)_**  — documentário musical sobre a trajetória de Marília Pêra, revisitando décadas de história do Brasil através de sua obra.
+
+<a href="https://thestories.cc/pix">
+<img src="https://i1.wp.com/www.thestories.cc/img/pague-me-1-cafe.png?resize=450,100" alt="PIX The Stories" width="100%">
+</a>
