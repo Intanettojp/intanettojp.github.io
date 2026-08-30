@@ -5,13 +5,6 @@ date: "2026-08-26T01:24:32-03:00"
 tags: [newslatter]
 img: "/img/18-anos-ate-o-altar.png"
 ---
----
-title: "18 anos de distância até o altar"
-description: "Cartas que levavam semanas para chegar, um amor que esperou 18 anos e um poema pra reler com calma nesta edição."
-date: "2026-08-26T01:24:32-03:00"
-tags: [newslatter]
-img: "/img/18-anos-ate-o-altar.png"
----
 Em *[Orgulho e Preconceito](https://www.imdb.com/title/tt0414387/)* (2005), de Joe Wright, Elizabeth Bennet e o Sr. Darcy passam metade do filme trocando farpas — e a outra metade trocando cartas.
 
 É justamente uma carta, lida e relida à luz de vela, que muda o rumo de tudo entre os dois.
