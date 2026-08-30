@@ -1,0 +1,478 @@
+---
+layout: post
+---
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="pt-BR">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title }} | the stories</title>
+<meta name="description" content="{{ page.description }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://fonts.gstatic.com/s/e/notoemoji/17.0/1f9f8/32.png"/>
+
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="The Stories">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:image" content="{{ page.img | absolute_url }}">
+<meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ page.url | absolute_url }}">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.description }}">
+<meta name="twitter:image" content="{{ page.img | absolute_url }}">
+<!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml>
+<![endif]--><!--[if !mso]><!-->
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap" rel="stylesheet" type="text/css"><!--<![endif]-->
+<style>
+* {
+box-sizing: border-box;
+}
+
+body {
+margin: 0;
+padding: 0;
+font-family: "Google Sans", Roboto, Tahoma, Verdana, Segoe, sans-serif;
+}
+
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: inherit !important;
+}
+
+#MessageViewBody a {
+color: inherit;
+text-decoration: none;
+}
+
+p {
+line-height: inherit;
+}
+
+.desktop_hide,
+.desktop_hide table {
+mso-hide: all;
+display: none;
+max-height: 0px;
+overflow: hidden;
+}
+
+.image_block img + div {
+display: none;
+}
+
+sup,
+sub {
+font-size: 75%;
+line-height: 0;
+}
+
+.row-2 .column-1 .block-9 .button:hover {
+background-color: #ff0033 !important;
+border-bottom: 0 solid transparent !important;
+border-left: 0 solid transparent !important;
+border-right: 0 solid transparent !important;
+border-top: 0 solid transparent !important;
+color: #ffffff !important;
+}
+
+@media (max-width: 500px) {
+.icons-inner {
+text-align: center;
+}
+
+.icons-inner td {
+margin: 0 auto;
+}
+
+.row-content {
+width: 100% !important;
+}
+
+.stack .column {
+width: 100%;
+display: block;
+}
+
+.mobile_hide {
+min-height: 0;
+max-height: 0;
+max-width: 0;
+display: none;
+overflow: hidden;
+font-size: 0;
+}
+
+.desktop_hide,
+.desktop_hide table {
+display: table !important;
+max-height: none !important;
+}
+
+.desktop_hide table.icons-inner,
+.social_block .social-table {
+display: inline-block !important;
+}
+}
+a {
+color: #fc7a7f;
+}
+img {
+max-width: 100%;
+height: auto;
+border-radius: 4px;
+}
+blockquote {
+margin: 5px 0;
+padding: 5px 15px;
+background: #f1f1f1;
+border-left: 5px solid #fc7a7f;
+border-radius: 4px;
+}
+blockquote ul {
+margin: 0;
+padding-left: 20px;
+}
+blockquote li {
+margin: 12px 0;
+color: #444;
+}
+blockquote strong {
+color: #fc7a7f;
+}
+hr {
+border: 0;
+height: 36px;
+background-image: url("https://souox.com/file/img/onda2.png");
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+margin: 0px 0;
+opacity: 1;
+}
+
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup { mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]-->
+<script type="application/ld+json" class="yoast-schema-graph">	
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Article",
+   "@id": "{{ page.url | absolute_url }}#article",
+   "isPartOf": { "@id": "{{ page.url | absolute_url }}" },
+   "author": {
+    "name": "{{ site.author_name }}",
+    "@id": "{{ site.url }}/#/schema/person/{{ site.author_id }}"
+   },
+   "headline": "{{ page.title | escape }}",
+   "datePublished": "{{ page.date | date_to_xmlschema }}",
+   "mainEntityOfPage": { "@id": "{{ page.url | absolute_url }}" },
+   "wordCount": {{ content | number_of_words }},
+   "image": { "@id": "{{ page.url | absolute_url }}#primaryimage" },
+   "thumbnailUrl": "{{ page.image }}",
+   "keywords": {{ page.keywords | jsonify }},
+   "articleSection": ["{{ page.tags }}"],
+   "inLanguage": "pt-BR"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "{{ page.url | absolute_url }}",
+   "url": "{{ page.url | absolute_url }}",
+   "name": "{{ page.title | escape }} - {{ site.title }}",
+   "isPartOf": { "@id": "{{ site.url }}/#website" },
+   "primaryImageOfPage": { "@id": "{{ page.url | absolute_url }}#primaryimage" },
+   "image": { "@id": "{{ page.url | absolute_url }}#primaryimage" },
+   "thumbnailUrl": "{{ page.img }}",
+   "datePublished": "{{ page.date | date_to_xmlschema }}",
+   "author": { "@id": "{{ site.url }}/#/schema/person/{{ site.author_id }}" },
+   "breadcrumb": { "@id": "{{ page.url | absolute_url }}#breadcrumb" },
+   "inLanguage": "pt-BR",
+   "potentialAction": [{ "@type": "ReadAction", "target": ["{{ page.url | absolute_url }}"] }]
+  },
+  {
+   "@type": "ImageObject",
+   "inLanguage": "pt-BR",
+   "@id": "{{ page.url | absolute_url }}#primaryimage",
+   "url": "{{ page.image }}",
+   "contentUrl": "{{ page.img }}",
+   "width": {{ page.image_width }},
+   "height": {{ page.image_height }},
+   "caption": "{{ page.image_caption }}"
+  },
+  {
+   "@type": "BreadcrumbList",
+   "@id": "{{ page.url | absolute_url }}#breadcrumb",
+   "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Início", "item": "{{ site.url }}/" },
+    { "@type": "ListItem", "position": 2, "name": "{{ page.title | escape }}" }
+   ]
+  },
+  {
+   "@type": "WebSite",
+   "@id": "{{ site.url }}/#website",
+   "url": "{{ site.url }}/",
+   "name": "{{ site.title }}",
+   "description": "{{ site.description }}",
+   "potentialAction": [{
+    "@type": "SearchAction",
+    "target": { "@type": "EntryPoint", "urlTemplate": "{{ site.url }}/?s={search_term_string}" },
+    "query-input": { "@type": "PropertyValueSpecification", "valueRequired": true, "valueName": "search_term_string" }
+   }],
+   "inLanguage": "pt-BR"
+  },
+  {
+   "@type": "Person",
+   "@id": "{{ site.url }}/#/schema/person/{{ site.author_id }}",
+   "name": "{{ site.author_name }}",
+   "image": { "@type": "ImageObject", "inLanguage": "pt-BR", "@id": "{{ site.author_image }}", "url": "{{ site.author_image }}", "contentUrl": "{{ site.author_image }}", "caption": "{{ site.author_name }}" },
+   "description": "{{ site.author_bio }}",
+   "url": "{{ site.url }}/sobre#{{ site.author_id }}"
+  }
+ ]
+}
+</script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-TZBPFV014K"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-TZBPFV014K', {
+			'cookie_domain': 'auto'
+		});
+	</script>
+
+</head>
+
+<body class="body" style="margin: 0; padding: 0; -webkit-text-size-adjust: none; text-size-adjust: none; background-color: #ffffff;">
+	<table class="nl-container" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff;">
+		<tbody>
+			<tr>
+				<td>
+					<table class="row row-2" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 480px; margin: 0 auto;" width="480">
+										<tbody>
+											<tr>
+												<td class="column column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top;">
+													<table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td class="col-pad" style="padding-bottom:5px;padding-top:5px;">
+																<table class="paragraph_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+																	<tr>
+																		<td class="pad">
+																			<div style="color:#444;direction:ltr;font-family:'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif;font-size:14px;font-weight:400;letter-spacing:-1px;line-height:1.2;text-align:center;mso-line-height-alt:19px;">
+																				<p style="margin: 0;">Visualizar este e-mail como&nbsp;<a href="{{ page.url }}" target="_self" rel="noopener">página web</a></p>
+																			</div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="image_block block-2" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" style="width:100%;" align="center">
+																			<div style="max-width: 350px;"><a href="{{ site.url }}" target="_self"><img src="https://www.thestories.cc/img/thestories.png" style="display: block; height: auto; border: 0; width: 100%;" width="350" alt="" title="" height="auto"></a></div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="heading_block block-3" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" style="width:100%;" align="center">
+																			<h1 style="margin: 0; color: #fd9599; direction: ltr; font-family: 'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif; font-size: 24px; font-weight: 700; letter-spacing: normal; line-height: 1.2; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 29px;">{{ page.title }}</h1>
+																		</td>
+																	</tr>
+																</table>
+																<table class="paragraph_block block-4" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+																	<tr>
+																		<td class="pad">
+																			<div style="color:#444;direction:ltr;font-family:'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif;font-size:14px;font-weight:400;letter-spacing:-1px;line-height:1.2;text-align:center;mso-line-height-alt:17px;">
+																				<p style="margin: 0;">Enviado com ❤ por&nbsp;ilove@thestories.cc</p>
+																			</div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="image_block block-5" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" style="width:100%;" align="center">
+																			<div style="max-width: 48px;"><img src="https://www.counter12.com/img-03c68571bW2DbZZW-3.gif" style="display: block; height: auto; border: 0; width: 100%;" width="48" alt="" title="" height="auto"></div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="paragraph_block block-6" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+																	<tr>
+																		<td class="pad">
+																			<div style="color:#444;direction:ltr;font-family:'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:1.2;text-align:left;mso-line-height-alt:19px;">
+																				{{ content }}
+																			</div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="image_block block-7" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" style="width:100%;" align="center">
+																			<div style="max-width: 480px;"><img src="https://souox.com/file/img/onda2.png" style="display: block; height: auto; border: 0; width: 100%;" width="480" alt="" title="" height="auto"></div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="paragraph_block block-8" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+																	<tr>
+																		<td class="pad">
+																			<div style="color:#444;direction:ltr;font-family:'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:1.5;text-align:center;mso-line-height-alt:19px;">
+																				<p style="margin: 0;"><strong>O que você achou da edição de hoje?</strong><br><a href="#voto" target="_blank" style="text-decoration: none; color: #fd9599;" rel="noopener">Muito boa &nbsp;| &nbsp;Boa &nbsp;| &nbsp;Mediana &nbsp;| &nbsp;Ruim &nbsp;| &nbsp;Muito ruim</a></p>
+																			</div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="button_block block-9" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" align="center"><a href="https://www.thestories.cc/share" target="_blank" style="color:#ffffff;text-decoration:none;"><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word"  href="https://www.thestories.cc/share"  style="height:38px;width:135px;v-text-anchor:middle;" arcsize="11%" fillcolor="#fd9599">
+<v:stroke dashstyle="Solid" weight="0px" color="#fd9599"/>
+<w:anchorlock/>
+<v:textbox inset="0px,0px,0px,0px">
+<center dir="false" style="color:#ffffff;font-family:sans-serif;font-size:14px">
+<![endif]--><span class="button" style="background-color: #fd9599; border-bottom: 0px solid transparent; border-left: 0px solid transparent; border-radius: 4px; border-right: 0px solid transparent; border-top: 0px solid transparent; color: #ffffff; display: inline-block; font-family: 'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif; font-size: 14px; font-weight: 400; mso-border-alt: none; text-align: center; width: auto; word-break: keep-all; letter-spacing: normal;"><span class="btn-pad" style="word-break: break-word; padding-left: 20px; padding-right: 20px; padding-top: 5px; padding-bottom: 5px; display: block;"><span style="word-break: break-word; line-height: 28px;"><strong>COMPARTILHE</strong></span></span></span><!--[if mso]></center></v:textbox></v:roundrect><![endif]--></a></td>
+																	</tr>
+																</table>
+																<table class="divider_block block-10" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" align="center">
+																			<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="60%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																				<tr>
+																					<td class="divider_inner" style="font-size: 1px; line-height: 1px; border-top: 2px solid #fd9599;"><span style="word-break: break-word;">&#8202;</span></td>
+																				</tr>
+																			</table>
+																		</td>
+																	</tr>
+																</table>
+																<table class="heading_block block-11" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" style="width:100%;" align="center">
+																			<h1 style="margin: 0; color: #fd9599; direction: ltr; font-family: 'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif; font-size: 16px; font-weight: 700; letter-spacing: normal; line-height: 1.2; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 19px;"><strong>the stories.cc</strong></h1>
+																		</td>
+																	</tr>
+																</table>
+																<table class="paragraph_block block-12" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+																	<tr>
+																		<td class="pad">
+																			<div style="color:#444;direction:ltr;font-family:'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:1.2;text-align:left;mso-line-height-alt:19px;">
+																				<p style="margin: 0; margin-bottom: 16px;"><strong>Nem sempre com finais felizes, mas sempre verdadeiras.</strong>&nbsp;Histórias de quem realmente sentiu algo sincero, diretamente entregues na sua caixa de entrada.</p>
+																				<p style="margin: 0;">A cada história uma emoção. Sempre aos domingos de manhã, às 08:08.</p>
+																			</div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="image_block block-13" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" style="width:100%;" align="center">
+																			<div style="max-width: 480px;"><img src="https://souox.com/file/img/onda2.png" style="display: block; height: auto; border: 0; width: 100%;" width="480" alt="" title="" height="auto"></div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="paragraph_block block-14" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+																	<tr>
+																		<td class="pad">
+																			<div style="color:#fd9599;direction:ltr;font-family:'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif;font-size:14px;font-weight:400;letter-spacing:0px;line-height:1.2;text-align:center;mso-line-height-alt:17px;">
+																				<p style="margin: 0;"><strong>QUEM PAGA O CAFÉ</strong></p>
+																			</div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="image_block block-15" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" style="width:100%;" align="center">
+																			<div style="max-width: 460px;"><a href="#cafe" target="_blank"><img src="https://souox.com/send-ads/" style="display: block; height: auto; border: 0; width: 100%; border-radius: 4px;" width="460" alt="cafe" title="cafe" height="auto"></a></div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="image_block block-16" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" style="width:100%;" align="center">
+																			<div style="max-width: 480px;"><img src="https://souox.com/file/img/onda2.png" style="display: block; height: auto; border: 0; width: 100%;" width="480" alt="" title="" height="auto"></div>
+																		</td>
+																	</tr>
+																</table>
+																<table class="social_block block-4" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td class="pad" align="center">
+																			<table class="social-table" width="180px" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																				<tr>
+																					<td style="padding:0 0 0 0px;"><a href="https://bsky.app/" target="_blank"><img src="https://www.thestories.cc/img/bluesky.png" width="32" height="auto" alt="Bluesky" title="Bluesky" style="display: block; height: auto; border: 0;"></a></td>
+																					<td style="padding:0 0 0 5px;"><a href="https://www.whatsapp.com" target="_blank"><img src="https://www.thestories.cc/img/whatsapp.png" width="32" height="auto" alt="WhatsApp" title="WhatsApp" style="display: block; height: auto; border: 0;"></a></td>
+																					<td style="padding:0 0 0 5px;"><a href="https://x.com/" target="_blank"><img src="https://www.thestories.cc/img/x.png" width="32" height="auto" alt="X" title="X" style="display: block; height: auto; border: 0;"></a></td>
+																					<td style="padding:0 0 0 5px;"><a href="https://telegram.org" target="_blank"><img src="https://www.thestories.cc/img/telegram.png" width="32" height="auto" alt="Telegram" title="Telegram" style="display: block; height: auto; border: 0;"></a></td>
+																					<td style="padding:0 0 0 5px;"><a href="https://instagram.com/" target="_blank"><img src="https://www.thestories.cc/img/instagram.png" width="32" height="auto" alt="Instagram" title="Instagram" style="display: block; height: auto; border: 0;"></a></td>
+																				</tr>
+																			</table>
+																		</td>
+																	</tr>
+																</table>
+																<table class="paragraph_block block-18" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+																	<tr>
+																		<td class="pad">{% raw %}
+																			<div style="color:#444;direction:ltr;font-family:'Google Sans', Roboto, Tahoma, Verdana, Segoe, sans-serif;font-size:12px;font-weight:400;letter-spacing:0px;line-height:1.2;text-align:center;mso-line-height-alt:14px;">
+																				<p style="margin: 0; margin-bottom: 16px;">Enviado para {{ .Subscriber.Email }}<br><a href="https://souox.com/oxnws" target="_blank" rel="noopener" style="text-decoration: underline;">Gerenciar preferências</a>&nbsp;|&nbsp;<a href="#" target="_blank" rel="noopener" style="text-decoration: underline;">Cancelar inscrição</a></p>
+																				<p style="margin: 0;">© 2025 The Stories<br>Av. Paulista, 1374 Bela Vista - São Paulo/SP<br>CEP: 01310-100</p>
+																			</div>{% endraw %}
+																		</td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-3" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-radius: 0; color: #000000; width: 480px; margin: 0 auto;" width="480">
+										<tbody>
+											<tr>
+												<td class="column column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top;">
+													<table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td class="col-pad" style="padding-bottom:5px;padding-top:5px;">
+																<table class="icons_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; line-height: 0;">
+																	<tr>
+																		<td class="pad" style="vertical-align: middle; color: #140231; font-family: inherit; font-size: 14px; font-weight: 400; letter-spacing: 0px;" align="center"><!--[if vml]><table align="center" cellpadding="0" cellspacing="0" role="presentation" style="display:inline-block;padding-left:0px;padding-right:0px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" ><![endif]-->
+																			<!--[if !vml]><!-->
+																			<table class="icons-inner" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; display: inline-block; padding-left: 0px; padding-right: 0px;" cellpadding="0" cellspacing="0" role="presentation"><!--<![endif]-->
+																				<tr>
+																					<td style="vertical-align: middle; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 6px;"><a href="https://gean.me/ti" target="_blank" title="GEAN.ME" style="text-decoration: none;"><img class="icon" src="https://www.thestories.cc/img/tilogo.png" height="16,8" width="14" align="center" style="display: block; height: auto; margin: 0 auto; border: 0;"></td>
+																					<td style="font-family: 'Google Sans', Roboto, sans-serif; font-size: 8px; font-weight: undefined; color: #cdced1; vertical-align: middle; letter-spacing: normal; text-align: center; line-height: normal;"><a href="https://gean.me/ti" target="_blank" title="GEAN.ME" style="color: #cdced1; text-decoration: none;">GEAN.ME</a></td>
+																				</tr>
+																			</table>
+																		</td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</tbody>
+	</table><!-- End -->
+</body>
+
+</html>
