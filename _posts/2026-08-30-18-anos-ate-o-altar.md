@@ -13,7 +13,7 @@ Talvez porque uma carta bem escrita diga o que a voz, na hora certa, nunca conse
 
 *"🎵 Para ler esta edição com a trilha certa."* —
 
-<iframe src="https://www.tokyvideo.com/br/embed/820520" frameborder="0" width="450" height="183" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe>
+<iframe src="https://www.tokyvideo.com/br/embed/820520" frameborder="0" width="450" height="258" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe>
 
 ---
 ##### **BIG STORY**
