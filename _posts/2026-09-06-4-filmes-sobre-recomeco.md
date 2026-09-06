@@ -116,7 +116,7 @@ O filme também está disponível no **Disney+**, segundo a página oficial da p
 
 ## ❤️ 4. Eu, Meu Irmão e Nossa Namorada (2007)
 
-![enter image description here](https://image.tmdb.org/t/p/original/iHNEyrbXjN7S1aDRAafT2yqtOst.jpg)
+![enter image description here](https://i1.wp.com/image.tmdb.org/t/p/original/iHNEyrbXjN7S1aDRAafT2yqtOst.jpg?w=460)
 
 **Título original:** _Dan in Real Life_  
 **Ano de lançamento:** 2007  
