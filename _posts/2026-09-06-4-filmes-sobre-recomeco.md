@@ -5,6 +5,7 @@ date: "2026-09-06T01:15:00-0300"
 tags: [thestories]
 img: "https://thestories.cc/img/img-260906.jpg"
 ---
+
 **Se a história de Joaquim e Lúcia mexeu com você, talvez estas quatro histórias também encontrem um lugar aí dentro.**
 
 Há filmes que a gente assiste e esquece alguns dias depois.
@@ -22,6 +23,7 @@ Não são histórias iguais à de Joaquim e Lúcia. E talvez seja justamente por
 ---
 
 ## ❤️ 1. Quando o Amor Acontece (1998)
+
 
 <iframe width="460" height="258" src="//ok.ru/videoembed/4617347140183?nochat=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
@@ -47,6 +49,7 @@ E talvez o mais bonito seja perceber que, antes de amar outra pessoa, Birdee pre
 ---
 
 ## 👧 2. Menina dos Olhos (2004)
+
 
 <iframe src="https://www.tokyvideo.com/br/embed/819875" frameborder="0" width="460" height="258" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe>
 
@@ -78,6 +81,7 @@ Até que uma noite de chuva fez alguém bater três vezes.
 ---
 
 ## 🦁 3. Compramos um Zoológico (2011)
+
 
 <iframe width="460" height="258" src="[//ok.ru/videoembed/4617347140183?nochat=1](https://www.tokyvideo.com/embed/299189)" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
@@ -111,6 +115,7 @@ O filme também está disponível no **Disney+**, segundo a página oficial da p
 ---
 
 ## ❤️ 4. Eu, Meu Irmão e Nossa Namorada (2007)
+
 
 ![enter image description here](https://i1.wp.com/image.tmdb.org/t/p/original/iHNEyrbXjN7S1aDRAafT2yqtOst.jpg?w=460)
 
