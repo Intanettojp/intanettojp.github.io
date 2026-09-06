@@ -82,7 +82,7 @@ Até que uma noite de chuva fez alguém bater três vezes.
 
 ## 🦁 3. Compramos um Zoológico (2011)
 
-<iframe src="https://www.tokyvideo.com/embed/299189" frameborder="0" width=460" height="270" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe><p style="text-align:center;max-width:100%;width:640px;margin:0 auto;font-size:14px">
+<iframe src="https://www.tokyvideo.com/embed/299189" frameborder="0" width=460" height="270" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe>
 
 
 **Título original:** _We Bought a Zoo_  
