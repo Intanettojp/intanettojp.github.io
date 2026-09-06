@@ -22,15 +22,11 @@ Por isso, separei quatro filmes que conversam com essa ideia.
 
 Não são histórias iguais à de Joaquim e Lúcia. E talvez seja justamente por isso que sejam tão interessantes. Cada uma delas olha para o amor de um jeito diferente, mas todas têm algo em comum: **seus personagens precisaram atravessar alguma coisa antes de descobrir que a história ainda não tinha terminado.**
 
-----------
+---
 
 ## ❤️ 1. Quando o Amor Acontece (1998)
 
-<iframe width="560" height="315" src="//ok.ru/videoembed/4617347140183?nochat=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
-
-
-
-
+<iframe width="460" height="315" src="//ok.ru/videoembed/4617347140183?nochat=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
 **Título original:** _Hope Floats_  
 **Ano de lançamento:** 1998  
@@ -51,14 +47,11 @@ E talvez o mais bonito seja perceber que, antes de amar outra pessoa, Birdee pre
 
 🎬 **[Veja o trailer e saiba mais sobre o filme](https://www.adorocinema.com/filmes/filme-18639/)** ([AdoroCinema](https://www.adorocinema.com/filmes/filme-18639/ "Quando o Amor Acontece - Filme 1998 - AdoroCinema"))
 
-----------
+---
 
 ## 👧 2. Menina dos Olhos (2004)
 
-<iframe src="https://www.tokyvideo.com/br/embed/819875" frameborder="0" width="640" height="360" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe>
-
-
-
+<iframe src="https://www.tokyvideo.com/br/embed/819875" frameborder="0" width="460" height="360" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe>
 
 **Título original:** _Jersey Girl_  
 **Ano de lançamento:** 2004  
@@ -85,11 +78,11 @@ Até que uma noite de chuva fez alguém bater três vezes.
 
 🎬 **[Veja o trailer e conheça _Menina dos Olhos_](https://www.imdb.com/pt/title/tt0300051/)** ([IMDb](https://www.imdb.com/pt/title/tt0300051/ "Menina dos Olhos (2004) - IMDb"))
 
-----------
+---
 
 ## 🦁 3. Compramos um Zoológico (2011)
 
-<iframe src="https://www.tokyvideo.com/embed/299189" frameborder="0" width="640" height="360" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe><p style="text-align:center;max-width:100%;width:640px;margin:0 auto;font-size:14px">
+<iframe src="https://www.tokyvideo.com/embed/299189" frameborder="0" width=460" height="270" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe><p style="text-align:center;max-width:100%;width:640px;margin:0 auto;font-size:14px">
 
 
 **Título original:** _We Bought a Zoo_  
@@ -119,15 +112,11 @@ Aos poucos, aquele lugar abandonado começa a ganhar vida novamente. E, enquanto
 
 O filme também está disponível no **Disney+**, segundo a página oficial da plataforma. ([Disney+](https://www.disneyplus.com/pt-br/browse/entity-27e3b2da-5e4a-4dde-8cea-5835ae54eda7?msockid=1b4e799a18ec65b0312e6f7f19af64ef "Assistir a Compramos um Zoológico | Disney+"))
 
-----------
+---
 
 ## ❤️ 4. Eu, Meu Irmão e Nossa Namorada (2007)
 
-
-
 ![enter image description here](https://image.tmdb.org/t/p/original/iHNEyrbXjN7S1aDRAafT2yqtOst.jpg)
-
-
 
 **Título original:** _Dan in Real Life_  
 **Ano de lançamento:** 2007  
@@ -154,7 +143,7 @@ Até descobrir que o coração não é muito bom em seguir regras.
 
 🎬 **[Veja o trailer e conheça _Eu, Meu Irmão e Nossa Namorada_](https://www.imdb.com/pt/title/tt0480242/)** ([IMDb](https://www.imdb.com/pt/title/tt0480242/ "Eu, Meu Irmão e Nossa Namorada (2007) - IMDb"))
 
-----------
+---
 
 ## ❤️ Talvez seja por isso que essas histórias funcionem tão bem
 
