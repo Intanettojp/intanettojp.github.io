@@ -25,7 +25,7 @@ Não são histórias iguais à de Joaquim e Lúcia. E talvez seja justamente por
 ## ❤️ 1. Quando o Amor Acontece (1998)
 
 
-<iframe width="460" height="258" src="//ok.ru/videoembed/4617347140183?nochat=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+<iframe width="460" height="259" src="https://ok.ru/videoembed/4617347140183?nochat=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
 **Título original:** _Hope Floats_  
 **Ano de lançamento:** 1998  
@@ -51,7 +51,7 @@ E talvez o mais bonito seja perceber que, antes de amar outra pessoa, Birdee pre
 ## 👧 2. Menina dos Olhos (2004)
 
 
-<iframe src="https://www.tokyvideo.com/br/embed/819875" frameborder="0" width="460" height="258" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen allowtransparency style="display:block;max-width:100%;margin:0 auto 10px"></iframe>
+<iframe width="460" height="259" src="https://www.tokyvideo.com/br/embed/819875" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
 **Título original:** _Jersey Girl_  
 **Ano de lançamento:** 2004  
@@ -83,7 +83,7 @@ Até que uma noite de chuva fez alguém bater três vezes.
 ## 🦁 3. Compramos um Zoológico (2011)
 
 
-<iframe width="460" height="258" src="[//ok.ru/videoembed/4617347140183?nochat=1](https://www.tokyvideo.com/embed/299189)" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+<iframe width="460" height="259" src="https://www.tokyvideo.com/embed/299189" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
 **Título original:** _We Bought a Zoo_  
 **Ano de lançamento:** 2011  
