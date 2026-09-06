@@ -116,15 +116,16 @@ O filme também está disponível no **Disney+**, segundo a página oficial da p
 
 ## ❤️ 4. Eu, Meu Irmão e Nossa Namorada (2007)
 
-
 ![enter image description here](https://i1.wp.com/image.tmdb.org/t/p/original/iHNEyrbXjN7S1aDRAafT2yqtOst.jpg?w=460)
+
+Este filme só encontrei [disponivel na Netflix](https://www.netflix.com/title/70076934)
 
 **Título original:** _Dan in Real Life_  
 **Ano de lançamento:** 2007  
 **Direção:** Peter Hedges  
 **Elenco:** Steve Carell, Juliette Binoche e Dane Cook
 
-Dan é viúvo, pai de três filhas e escreve uma coluna de aconselhamento sobre relacionamentos. Ele passa os dias dando conselhos para outras pessoas sobre amor, enquanto sua própria vida emocional parece estar em pausa. ([IMDb](https://www.imdb.com/pt/title/tt0480242/ "Eu, Meu Irmão e Nossa Namorada (2007) - IMDb"))
+Dan é viúvo, pai de três filhas e escreve uma coluna de aconselhamento sobre relacionamentos. Ele passa os dias dando conselhos para outras pessoas sobre amor, enquanto sua própria vida emocional parece estar em pausa. ([IMDb](https://www.netflix.com/title/70076934 "Eu, Meu Irmão e Nossa Namorada (2007) - IMDb"))
 
 Até que ele conhece Marie.
 
@@ -142,7 +143,7 @@ Mas, por trás da comédia, existe uma história bonita sobre alguém que acredi
 
 Até descobrir que o coração não é muito bom em seguir regras.
 
-🎬 **[Veja o trailer e conheça _Eu, Meu Irmão e Nossa Namorada_](https://www.imdb.com/pt/title/tt0480242/)** ([IMDb](https://www.imdb.com/pt/title/tt0480242/ "Eu, Meu Irmão e Nossa Namorada (2007) - IMDb"))
+🎬 **[Veja o trailer e conheça _Eu, Meu Irmão e Nossa Namorada_](https://www.netflix.com/title/70076934)** ([IMDb](https://www.youtube.com/watch?v=8XageyLtu7g "Eu, Meu Irmão e Nossa Namorada (2007) - IMDb"))
 
 ---
 
