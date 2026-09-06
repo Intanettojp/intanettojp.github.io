@@ -5,9 +5,6 @@ date: "2026-09-06T01:15:00-0300"
 tags: [thestories]
 img: "https://thestories.cc/img/img-260906.jpg"
 ---
-
-# 🎬 4 filmes para quem acredita que ainda existe uma história depois do fim
-
 **Se a história de Joaquim e Lúcia mexeu com você, talvez estas quatro histórias também encontrem um lugar aí dentro.**
 
 Há filmes que a gente assiste e esquece alguns dias depois.
