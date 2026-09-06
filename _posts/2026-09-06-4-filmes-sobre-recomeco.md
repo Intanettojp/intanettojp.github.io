@@ -94,7 +94,7 @@ Benjamin Mee perdeu a esposa e percebe que continuar vivendo exatamente como ant
 
 Então toma uma decisão completamente fora do comum: muda-se com os filhos para uma propriedade que, além de uma casa, abriga um zoológico em dificuldades.
 
-Agora ele precisa reconstruir o lugar, cuidar dos filhos e, principalmente, **reconstruir a própria família depois da perda**. ([Disney+](https://www.disneyplus.com/pt-br/browse/entity-27e3b2da-5e4a-4dde-8cea-5835ae54eda7?msockid=1b4e799a18ec65b0312e6f7f19af64ef "Assistir a Compramos um Zoológico | Disney+"))
+Agora ele precisa reconstruir o lugar, cuidar dos filhos e, principalmente, **reconstruir a própria família depois da perda**. ([Disney+](https://www.disneyplus.com/pt-br/browse/entity-27e3b2da-5e4a-4dde-8cea-5835ae54eda7?msockid=1b4e799a18ec65b0312e6f7f19af64ef "Assistir a Compramos um Zoológico - Disney+"))
 
 E talvez seja esse o segredo do filme.
 
@@ -110,7 +110,7 @@ Aos poucos, aquele lugar abandonado começa a ganhar vida novamente. E, enquanto
 
 🎬 **[Veja o trailer de _Compramos um Zoológico_](https://www.youtube.com/watch?v=B0g9leTDyJU)** ([YouTube](https://www.youtube.com/watch?v=B0g9leTDyJU "Compramos um Zoológico - Trailer - YouTube"))
 
-O filme também está disponível no **Disney+**, segundo a página oficial da plataforma. ([Disney+](https://www.disneyplus.com/pt-br/browse/entity-27e3b2da-5e4a-4dde-8cea-5835ae54eda7?msockid=1b4e799a18ec65b0312e6f7f19af64ef "Assistir a Compramos um Zoológico | Disney+"))
+O filme também está disponível no **Disney+**, segundo a página oficial da plataforma. ([Disney+](https://www.disneyplus.com/pt-br/browse/entity-27e3b2da-5e4a-4dde-8cea-5835ae54eda7?msockid=1b4e799a18ec65b0312e6f7f19af64ef "Assistir a Compramos um Zoológico - Disney+"))
 
 ---
 
