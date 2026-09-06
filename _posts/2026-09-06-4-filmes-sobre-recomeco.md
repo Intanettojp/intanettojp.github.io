@@ -1,5 +1,4 @@
 ---
-layout: thestories
 title: "4 filmes sobre recomeços para quem ainda acredita no amor"
 description: "Quatro histórias sobre perdas, família e encontros inesperados que provam que o amor pode chegar quando a gente menos espera."
 date: "2026-09-06T01:15:00-0300"
