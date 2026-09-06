@@ -22,10 +22,11 @@ Não são histórias iguais à de Joaquim e Lúcia. E talvez seja justamente por
 
 ---
 
-## ❤️ 1. Quando o Amor Acontece (1998)
+## ❤️ 1. Quando o Amor Acontece (1998)<br>
 
-
+<div class="video-container">
 <iframe width="460" height="259" src="https://ok.ru/videoembed/4617347140183?nochat=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+</div>
 
 **Título original:** _Hope Floats_  
 **Ano de lançamento:** 1998  
@@ -48,10 +49,12 @@ E talvez o mais bonito seja perceber que, antes de amar outra pessoa, Birdee pre
 
 ---
 
-## 👧 2. Menina dos Olhos (2004)
+## 👧 2. Menina dos Olhos (2004)<br>
 
-
+<div class="video-container">
 <iframe width="460" height="259" src="https://www.tokyvideo.com/br/embed/819875" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+</div>
+
 
 **Título original:** _Jersey Girl_  
 **Ano de lançamento:** 2004  
@@ -80,10 +83,11 @@ Até que uma noite de chuva fez alguém bater três vezes.
 
 ---
 
-## 🦁 3. Compramos um Zoológico (2011)
+## 🦁 3. Compramos um Zoológico (2011)<br>
 
-
+<div class="video-container">
 <iframe width="460" height="259" src="https://www.tokyvideo.com/embed/299189" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+</div>
 
 **Título original:** _We Bought a Zoo_  
 **Ano de lançamento:** 2011  
