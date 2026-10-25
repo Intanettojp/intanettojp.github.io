@@ -3,7 +3,7 @@ title: "ela entrou pela porteira errada e encontrou o amor"
 description: "Às vezes, perder o caminho é a única maneira de descobrir para onde queremos ir"
 date: "2026-10-25T01:15:00-0300"
 tags: [thestories]
-img: "https://thestories.cc/img/img-260906.jpg"
+img: "./img/gemini-givr6igivr6igivr.jpg"
 ---
 
 <audio controls="" preload="metadata" style="width: 100%;"><source src="https://srv2001213.hstgr.cloud/audio/porteira-errada.mp3" type="audio/mp3" />Seu navegador não suporta áudio HTML5.</audio>
