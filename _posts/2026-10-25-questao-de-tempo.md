@@ -1,5 +1,4 @@
 ---
-layout: thestories
 title: "Questão de Tempo (2013)"
 description: "E se cada momento da vida viesse com uma segunda chance?"
 date: "2026-10-25T01:15:00-0300"
